@@ -1,0 +1,26 @@
+.container {
+  display: flex;
+  flex-direction: column;
+
+  max-width: 100%;
+}
+.container h1 {
+  text-align: center;
+  color: rgb(38, 131, 10);
+}
+
+.container hr {
+  border-top: 1px solid;
+}
+
+.trait {
+  border-bottom: 1rem solid;
+  max-width: 55%;
+  margin: 0 25% 1% 25%;
+}
+
+.logo {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}

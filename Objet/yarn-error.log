@@ -1,0 +1,32 @@
+Arguments: 
+  /Users/aboubacarkeita/.asdf/installs/nodejs/15.10.0/bin/node /Users/aboubacarkeita/.asdf/installs/yarn/1.22.5/bin/yarn.js add typescript
+
+PATH: 
+  /Users/aboubacarkeita/.asdf/installs/nodejs/15.10.0/bin:/Users/aboubacarkeita/.asdf/installs/nodejs/15.10.0/.npm/bin:/Users/aboubacarkeita/.asdf/installs/yarn/1.22.5/bin:/Users/aboubacarkeita/.asdf/shims:/Users/aboubacarkeita/.asdf/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/Users/aboubacarkeita/.bin:/Users/aboubacarkeita/.bin.local:/usr/local/sbin:./bin
+
+Yarn version: 
+  1.22.5
+
+Node version: 
+  15.10.0
+
+Platform: 
+  darwin x64
+
+Trace: 
+  Error: getaddrinfo ENOTFOUND registry.yarnpkg.com
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:69:26)
+
+npm manifest: 
+  {
+    "name": "Objet",
+    "version": "1.0.0",
+    "main": "index.js",
+    "license": "MIT"
+  }
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile
